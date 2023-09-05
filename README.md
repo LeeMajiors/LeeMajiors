@@ -1,1 +1,1 @@
-About Me ✍🏿
+• From Custom Suiting to Sofware Engneering.
