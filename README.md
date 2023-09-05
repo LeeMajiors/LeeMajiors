@@ -6,11 +6,11 @@ Why the suit? I’m a Menswear designer & a bespoke suit maker.
 </h4>
 
 <p>
-- Currently learning **NodeJs & React**
+Currently learning **NodeJs & React**
 
-- All of my projects are available here <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
+All of my projects are available here <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
   
-- Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
+Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
