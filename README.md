@@ -3,11 +3,12 @@
 
 - currently learning **NodeJs & React**
 
-- All of my projects are available at <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
+- All of my projects are available here <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
   
 - How to reach me <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
 
-- Know about my experiences [https://www.linkedin.com/in/emir-yunus/](https://www.linkedin.com/in/emir-yunus/)
+- Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="figma" width="40" height="40"/> </a> 
+  <img src="" alt="HTML5" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="HTML5" width="40" height="40"/> </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
