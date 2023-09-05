@@ -15,7 +15,7 @@ Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
+How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
