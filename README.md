@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋🏿, I'm Emir</h1>
-<h4 align="left">I’m a Software Engineer who’s passionate about deeply learning and understanding programming and technology. love to explore new technologies and use them to solve real-life problems. As a newbie myself I do my best to guide and mentor other newbies. I’m currently working learning backend development using Javascript. I am looking to gain experience and work in a challenging environment where I can contribute to the organization’s growth. I like to take ownership and am very positive and enthusiastic in any endeavor that I take. Why the suit? I’m a Menswear designer & a bespoke suit maker.</h4>
+<h4 align="left">I'm a passionate Software Engineer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. My enthusiasm leads me to continuously explore new technologies and leverage them to solve real-world challenges. Despite being relatively new in this field, I actively engage in guiding and mentoring fellow newcomers.
+Currently, I am dedicated to expanding my skills in backend development using Javascript. I am eager to acquire hands-on experience in a dynamic and demanding work environment where I can actively contribute to the organization's growth. My approach involves taking ownership of tasks and projects, and I consistently maintain a positive and enthusiastic outlook in all my endeavors.</h4>
 
 - currently learning **NodeJs & React**
 
