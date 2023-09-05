@@ -3,7 +3,7 @@
 
 - • currently learning **NodeJs & React**
 
-- • All of my projects are available at <a href="[https://splendid-madeleine-ba4f28.netlify.app/](https://splendid-madeleine-ba4f28.netlify.app/)">Portfolio</a>
+- • All of my projects are available at <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
   
 
 - • How to reach me **emir@tailoringnyc.com**
