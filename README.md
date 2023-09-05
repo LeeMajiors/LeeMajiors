@@ -16,12 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="" alt="HTML5" width="40" height="40"/> </a> 
+<!--   <img src="" alt="HTML5" width="40" height="40"/> </a>  -->
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
-  
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/> </a> 
-  
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe_xd" width="40" height="40"/> </a> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe_ai" width="40" height="40"/> </a> 
