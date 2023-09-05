@@ -5,13 +5,12 @@
 
 - All of my projects are available here <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
   
-- How to reach me <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
-
 - Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
