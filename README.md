@@ -1,14 +1,13 @@
 <h1 align="left">Hi 👋🏿, I'm Emir</h1>
 <h4 align="left">I’m a Software Engineer who’s passionate about deeply learning and understanding programming and technology. love to explore new technologies and use them to solve real-life problems. As a newbie myself I do my best to guide and mentor other newbies. I’m currently working learning backend development using Javascript. I am looking to gain experience and work in a challenging environment where I can contribute to the organization’s growth. I like to take ownership and am very positive and enthusiastic in any endeavor that I take. Why the suit? I’m a Menswear designer & a bespoke suit maker.</h4>
 
-- • currently learning **NodeJs & React**
+- currently learning **NodeJs & React**
 
-- • All of my projects are available at <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
+- All of my projects are available at <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
   
+- How to reach me <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
 
-- • How to reach me **emir@tailoringnyc.com**
-
-- • Know about my experiences [https://www.linkedin.com/in/emir-yunus/](https://www.linkedin.com/in/emir-yunus/)
+- Know about my experiences [https://www.linkedin.com/in/emir-yunus/](https://www.linkedin.com/in/emir-yunus/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
