@@ -2,8 +2,7 @@
 <h4 align="left">I'm a passionate Senior Product Designer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. 
   
 <br><br>My enthusiasm leads me to continuously explore new technologies and leverage them to solve real-world challenges. 
-
-<br><br>I actively engage in guiding and mentoring fellow newcomers. 
+I actively engage in guiding and mentoring fellow newcomers. 
   
 <br><br>Currently, I am dedicated to expanding my skills in fullstack development using Javascript. 
 
