@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏿, I'm Emir Yunusa K.</h1>
+<h1 align="left">Hi 👋🏿, I'm Emir Yunusa </h1>
 <h4 align="left">I'm a passionate Senior Product Designer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. My enthusiasm leads me to continuously explore new technologies and leverage them to solve real-world challenges. Despite being relatively new in this field, I actively engage in guiding and mentoring fellow newcomers.
 Currently, I am dedicated to expanding my skills in backend development using Javascript. I am eager to acquire hands-on experience in a dynamic and demanding work environment where I can actively contribute to the organization's growth. My approach involves taking ownership of tasks and projects, and I consistently maintain a positive and enthusiastic outlook in all my endeavors.
 
