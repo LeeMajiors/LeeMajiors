@@ -5,8 +5,7 @@
 I actively engage in guiding and mentoring fellow newcomers. 
   
 <br><br>Currently, I am dedicated to expanding my skills in fullstack development using Javascript. 
-
-<br><br>I am eager to acquire hands-on experience in a dynamic and demanding work environment where I can actively contribute to the organization's growth. 
+I am eager to acquire hands-on experience in a dynamic and demanding work environment where I can actively contribute to the organization's growth. 
 
 <br><br>My approach involves taking ownership of tasks and projects, and I consistently maintain a positive and enthusiastic outlook in all my endeavors.
 
