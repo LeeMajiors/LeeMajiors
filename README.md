@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏿, I'm Emir Yunusa K. </h1>
-<h4 align="left">I'm a passionate Senior Product Designer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. 
+<h4 align="left">I'm a passionate Product Softwear Engineer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. 
   
 <br><br>My enthusiasm leads me to continuously explore new technologies and leverage them to solve real-world challenges. 
 I actively engage in guiding and mentoring fellow newcomers. 
