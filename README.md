@@ -15,8 +15,6 @@
 <p>
 <!-- Currently learning **NodeJs & React** -->
 
-All of my projects are available here <a href="https://splendid-madeleine-ba4f28.netlify.app">Portfolio</a>
-  
 <!-- Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
 </p> -->
 
