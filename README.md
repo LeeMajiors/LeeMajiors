@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋🏿, I'm Emir Yunusa K. </h1>
-<h4 align="left">I'm a passionate Product Softwear Engineer with a strong commitment to delving deep into programming and technology to gain a comprehensive understanding. 
+<h4 align="left">I'm a passionate Product Software Engineer deeply committed to exploring cutting-edge technologies and applying them to real-world challenges.
   
-<br><br>My enthusiasm leads me to continuously explore new technologies and leverage them to solve real-world challenges. 
-I actively engage in guiding and mentoring fellow newcomers. 
+<br><br>Actively involved in guiding and mentoring peers, my current focus is on honing full-stack development skills using JavaScript.
   
-<br><br>Currently, I am dedicated to expanding my skills in fullstack development using Javascript. 
-I am eager to acquire hands-on experience in a dynamic and demanding work environment where I can actively contribute to the organization's growth. 
+<br><br>Driven by a desire for hands-on experience, I'm eager to contribute to a dynamic work environment and facilitate organizational growth. My approach involves taking ownership of projects with a positive and enthusiastic outlook.
 
-<br><br>My approach involves taking ownership of tasks and projects, and I consistently maintain a positive and enthusiastic outlook in all my endeavors.
+<br><br>With expertise in the MERN stack (MongoDB, Express, React, Node.js), I excel in developing visually captivating and responsive applications. My background includes over 10 years as an entrepreneur, leading a diverse team to create apparel and accessory collection from concept to creation. This entrepreneurial mindset enhances my ability to drive transformative change, increasing shareholder value and swiftly scaling businesses to seize market opportunities.
+
+<br><br>A results-driven leader, I bring strategic planning and execution skills to the table. Let's connect to explore how I can contribute to your team's success.
 
 <!-- Why the suit? I’m also Menswear designer & a bespoke suit maker. -->
 </h4>
