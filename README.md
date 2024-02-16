@@ -1,4 +1,4 @@
-<h1 align="left">Hey, my name is Emir Yunusa K. </h1>
+<h1 align="left">Hey, my name is Emir. </h1>
 <h4 align="left">Currently, I am a software engineer at Mission Scope..
 <h4 align="left">Please check out my projects below!
 
