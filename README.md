@@ -9,7 +9,21 @@
    <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/2ac1b3c7-8b0a-4586-85c0-503cafb17eb1" />
   <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/02e6c3dd-4d2e-4943-92d5-2e812343424a" />
 </a>
+<h3 align="left">Languages and Tools:</h3>
 
+<p align="left"> 
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a
+  <img src="https://sachsenhofer.io/wp-content/uploads/2018/06/node-js-white.png" alt="nodejs" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
+</a>  
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe_xd" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe_ai" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
+</p>
 
 <!--  
 <br><br>Actively involved in guiding and mentoring peers, my current focus is on honing full-stack development skills using JavaScript.
