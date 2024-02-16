@@ -1,6 +1,9 @@
-<h1 align="left">Hi 👋🏿, I'm Emir Yunusa K. </h1>
-<h4 align="left">I'm a passionate Product Software Engineer deeply committed to exploring cutting-edge technologies and applying them to real-world challenges.
-  
+<h1 align="left">Hey, my name is Emir Yunusa K. </h1>
+<h4 align="left">Currently, I am a software engineer at Mission Scope..
+<h4 align="left">Please check out my projects below!
+
+
+<!--  
 <br><br>Actively involved in guiding and mentoring peers, my current focus is on honing full-stack development skills using JavaScript.
   
 <br><br>Driven by a desire for hands-on experience, I'm eager to contribute to a dynamic work environment and facilitate organizational growth. My approach involves taking ownership of projects with a positive and enthusiastic outlook.
@@ -9,14 +12,14 @@
 
 <br><br>A results-driven leader, I bring strategic planning and execution skills to the table. Let's connect to explore how I can contribute to your team's success.
 
-<!-- Why the suit? I’m also Menswear designer & a bespoke suit maker. -->
+ Why the suit? I’m also Menswear designer & a bespoke suit maker. this line should be hiddin on its own -
 </h4>
 
 <p>
 <!-- Currently learning **NodeJs & React** -->
 
 <!-- Know about my experiences <a href="https://www.linkedin.com/in/emir-yunus/">Linkedin</a> 
-</p> -->
+</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +28,7 @@ How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!--   <img src="" alt="HTML5" width="40" height="40"/> </a>  -->
+<!--   <img src="" alt="HTML5" width="40" height="40"/> </a>  // this line should be hidden on its own.
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a
   <img src="https://sachsenhofer.io/wp-content/uploads/2018/06/node-js-white.png" alt="nodejs" width="40" height="40"/> </a>
@@ -38,4 +41,4 @@ How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
 </p>
-
+-->
