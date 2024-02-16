@@ -12,13 +12,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a
   <img src="https://sachsenhofer.io/wp-content/uploads/2018/06/node-js-white.png" alt="nodejs" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
 </a>  
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <img src="https://www.flaticon.com/free-icon/xd_5611129?term=adobe&page=1&position=4&origin=tag&related_id=5611129" alt="adobe_ai" width="40" height="40"/> </a> 
 </p>
 
 <!--  
