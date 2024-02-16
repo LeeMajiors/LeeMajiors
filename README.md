@@ -3,6 +3,14 @@
 <h4 align="left">Please check out my projects below!
 
 
+<br>
+<a href="https://github.com/xEYKx">
+  <br>
+   <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/2ac1b3c7-8b0a-4586-85c0-503cafb17eb1" />
+  <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/02e6c3dd-4d2e-4943-92d5-2e812343424a" />
+</a>
+
+
 <!--  
 <br><br>Actively involved in guiding and mentoring peers, my current focus is on honing full-stack development skills using JavaScript.
   
