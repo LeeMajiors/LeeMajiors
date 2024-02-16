@@ -45,6 +45,7 @@
 How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a> 
 </p>
 -->
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <img src="" alt="HTML5" width="40" height="40"/> </a>  // this line should be hidden on its own.
@@ -60,4 +61,4 @@ How to reach me -> <a href="mailto:emir@tailoringnyc.com">Conatct</a>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
 </p>
-
+-->
