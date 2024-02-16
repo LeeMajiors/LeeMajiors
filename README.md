@@ -9,7 +9,7 @@
    <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/2ac1b3c7-8b0a-4586-85c0-503cafb17eb1" />
   <img height="180em" src="https://github.com/xEYKx/xEYKx/assets/83879349/02e6c3dd-4d2e-4943-92d5-2e812343424a" />
 </a>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Database, Library & Tools:</h3>
 
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
@@ -17,6 +17,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a>
   <img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-17.jpg" alt="nodejs" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 <!--  
