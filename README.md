@@ -16,6 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a
   <img src="https://sachsenhofer.io/wp-content/uploads/2018/06/node-js-white.png" alt="nodejs" width="40" height="40"/> </a>
+  <img src="https://uxwing.com/node-js-icon/" alt="nodejs" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
