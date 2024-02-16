@@ -15,7 +15,7 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" alt="nodejs" width="40" height="40"/> </a>
+  <img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-17.jpg" alt="nodejs" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
