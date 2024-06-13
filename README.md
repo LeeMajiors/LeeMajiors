@@ -1,5 +1,5 @@
 <h1 align="left">Hey, my name is Emir. </h1>
-<h4 align="left">Currently, I am a parttime SWE at Mission Scope..
+<h4 align="left">Currently, I am a part-time SWE at Mission Scope..
 <h4 align="left">Please check out my projects below!
 
 
